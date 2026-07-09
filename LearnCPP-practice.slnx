@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Chapter0.7_HelloWorld!/Chapter0.7_HelloWorld!.vcxproj" />
+  <Project Path="Chapter0.7_HelloWorld!/Chapter0.7_HelloWorld!.vcxproj" Id="2a0b6d25-a90e-4c52-b52a-56d69d1c21f2" />
+  <Project Path="Chapter1.4_variable(assignment and initialization)/Chapter1.4_variable(assignment and initialization).vcxproj" Id="131aea8e-1aef-4fc8-b1c5-7f39fd32c75f" />
+  <Project Path="Chapter1.5_cin/Chapter1.5_cin.vcxproj" Id="70ebd73c-8d65-489f-9db3-6dd798120d9b" />
+  <Project Path="Chapter1.5_iostream_basics/Chapter1.5_iostream_basics.vcxproj" Id="e1c4f0f8-6be9-4bd4-ba77-e6e1a1ac7348" />
 </Solution>
