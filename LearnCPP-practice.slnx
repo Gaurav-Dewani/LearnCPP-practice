@@ -9,4 +9,5 @@
   <Project Path="Chapter1.5_iostream_basics/Chapter1.5_iostream_basics.vcxproj" Id="e1c4f0f8-6be9-4bd4-ba77-e6e1a1ac7348" />
   <Project Path="Chapter1_revision_sumcalc/Chapter1_revision_sumcalc.vcxproj" Id="cb6c00ab-62ed-4474-884a-fa4279cf5c96" />
   <Project Path="Chapter2.2_Functions/Chapter2.2_Functions.vcxproj" Id="899fb81a-aa83-44f9-8710-7e17f9f40923" />
+  <Project Path="Chapter2.3_2.4_voidfunc_parameter_arguments/Chapter2.3_2.4_voidfunc_parameter_arguments.vcxproj" Id="f789f5aa-c5ac-41a4-a992-f2082cda4f6f" />
 </Solution>
