@@ -69,8 +69,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f789f5aa-c5ac-41a4-a992-f2082cda4f6f}</ProjectGuid>
-    <RootNamespace>Chapter2324voidfuncparameterarguments</RootNamespace>
+    <ProjectGuid>{02d326e8-87f5-402a-9489-f10021789d46}</ProjectGuid>
+    <RootNamespace>Chapter2finishedproject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -528,6 +528,13 @@
       <EnableSegmentHeap>true</EnableSegmentHeap>
     </Manifest>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter2_finished_project.cpp" />
+    <ClCompile Include="io.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="io.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
